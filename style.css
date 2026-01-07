@@ -1,0 +1,18 @@
+#title  {
+  text-align: center;
+}
+
+#sportsimg {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#sportslist {
+  text-align: center;
+}
+
+.splist {
+  text-align: center;
+}
